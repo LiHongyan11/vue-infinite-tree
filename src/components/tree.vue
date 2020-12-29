@@ -26,7 +26,7 @@ import TreeStore from './model/tree-store';
 import Node from './model/node';
 
 @Component({
-    name: 'tree',
+    name: 'infinite-tree',
     components: {
         TreeNode,
     },

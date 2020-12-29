@@ -32,7 +32,7 @@ import { Component, Vue, Prop } from 'vue-property-decorator';
 import Node from './model/node';
 
 @Component({
-    name: 'tree-node',
+    name: 'infinite-tree-node',
     components: {
         NodeContent: {
             props: {
