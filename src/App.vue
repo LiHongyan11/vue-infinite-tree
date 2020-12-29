@@ -24,7 +24,6 @@
 </template>
 
 <script lang="ts">
-// @ts-nocheck
 
 import { Component, Vue, Watch } from 'vue-property-decorator';
 import Tree from './components/tree.vue';
