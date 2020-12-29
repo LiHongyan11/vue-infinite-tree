@@ -1,7 +1,17 @@
 {
   "name": "vue-infinite-tree",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
+  "main": "dist/vue-infinite-tree.umd.min.js",
+  "author": "179947177@qq.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiHongyan11/vue-infinite-tree.git"
+  },
+  "keywords": [
+    "Vue",
+    "infinite-tree"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -12,6 +22,7 @@
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
+    "vue-infinite-tree": "^0.1.1",
     "vue-property-decorator": "^8.5.1"
   },
   "devDependencies": {
